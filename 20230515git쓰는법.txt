@@ -1,0 +1,17 @@
+git commit
+git merge
+git rebase
+git revert
+git reset
+git add, push, pull
+git fetch
+git checkout -t
+git remote
+git update
+git branch
+
+code review
+pull request
+
+
+https://backlog.com/git-tutorial/kr/stepup/stepup3_3.html : git 입문 읽어보기
